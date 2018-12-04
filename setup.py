@@ -33,7 +33,7 @@ setup(
     license='MIT',
     author='NII',
     author_email='weko-dev@nii.ac.jp',
-    url='https://github.com/RCOSDP/weko3',
+    url='https://github.com/mhaya/weko3',
     packages=packages,
     zip_safe=False,
     include_package_data=True,

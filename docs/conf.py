@@ -124,7 +124,7 @@ html_theme_options = {
     'github_banner': True,
     'show_powered_by': False,
     'extra_nav_links': {
-        'weko3@GitHub': 'https://github.com/RCOSDP/weko3',
+        'weko3@GitHub': 'https://github.com/mhaya/weko3',
         'weko3@PyPI': 'https://pypi.python.org/pypi/weko3/',
     }
 }

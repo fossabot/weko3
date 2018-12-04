@@ -8,17 +8,16 @@
  WEKO3
 =======
 
-.. image:: https://img.shields.io/travis/RCOSDP/weko3.svg
-        :target: https://travis-ci.org/RCOSDP/weko3
+.. image:: https://img.shields.io/travis/mhaya/weko3.svg
+        :target: https://travis-ci.org/mhaya/weko3
 
-.. image:: https://img.shields.io/coveralls/RCOSDP/weko3.svg
-        :target: https://coveralls.io/r/RCOSDP/weko3
+.. image:: https://img.shields.io/coveralls/mhaya/weko3.svg
+        :target: https://coveralls.io/r/mhaya/weko3
 
-.. image:: https://img.shields.io/github/license/RCOSDP/weko3.svg
-        :target: https://github.com/RCOSDP/weko3/blob/master/LICENSE
+.. image:: https://img.shields.io/github/license/mhaya/weko3.svg
+        :target: https://github.com/mhaya/weko3/blob/master/LICENSE
 
 WEKO3
 
 Further documentation is available on
 https://weko3.readthedocs.io/
-
