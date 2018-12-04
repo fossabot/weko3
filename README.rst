@@ -9,10 +9,10 @@
 =======
 
 .. image:: https://img.shields.io/travis/mhaya/weko3.svg
-        :target: https://travis-ci.org/mhaya/weko3
+        :target: https://travis-ci.com/mhaya/weko3
 
 .. image:: https://img.shields.io/coveralls/mhaya/weko3.svg
-        :target: https://coveralls.io/r/mhaya/weko3
+        :target: https://coveralls.io/github/mhaya/weko3
 
 .. image:: https://img.shields.io/github/license/mhaya/weko3.svg
         :target: https://github.com/mhaya/weko3/blob/master/LICENSE
