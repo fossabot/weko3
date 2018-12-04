@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 Babel = ">=2.4.0"
 Flask-BabelEx = ">=0.9.3"
-invenio = { version = ">=3.1.0dev20181106", extras = ["base", "metadata", "postgresql", "auth", "elasticsearch6" ]}
-weko3 = {editable = true, path = "."}
+invenio = {version = ">=3.1.0dev20181106",extras = ["base", "metadata", "postgresql", "auth", "elasticsearch6" ]}
+weko3 = {editable = true,path = "."}
 uwsgi = ">=2.0"
 
 [dev-packages]

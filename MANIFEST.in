@@ -29,3 +29,21 @@ include scripts/update
 prune docs/_build
 recursive-include weko3 *.po *.pot *.mo
 recursive-include docker *.cfg *.conf *.crt *.ini *.key *.pem *.sh
+
+# added by check_manifest.py
+include *.base
+include *.rst
+include *.sh
+include *.yml
+include LICENSE
+include Pipfile
+include babel.ini
+include pytest.ini
+recursive-include docs *.bat
+recursive-include docs *.py
+recursive-include docs *.rst
+recursive-include docs *.txt
+recursive-include docs Makefile
+recursive-include tests *.py
+recursive-include weko3 *.gitkeep
+recursive-include weko3 *.html
