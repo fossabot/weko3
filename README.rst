@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmhaya%2Fweko3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmhaya%2Fweko3?ref=badge_shield)
+
 ..
     Copyright (C) 2018 NII.
 
@@ -21,3 +23,6 @@ WEKO3
 
 Further documentation is available on
 https://weko3.readthedocs.io/
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmhaya%2Fweko3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmhaya%2Fweko3?ref=badge_large)
